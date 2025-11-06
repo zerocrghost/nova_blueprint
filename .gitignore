@@ -8,4 +8,4 @@ data/results/
 *.log
 __pycache__
 .vscode/
-neurons/miner/*.json
+PSICHIC/trained_weights/TREAT2/model.pt
